@@ -1,5 +1,4 @@
 # Volleyball
-Em construção
 
 Eu sou uma grande fã de vôlei e com meu desenvolvimento em Python pretendo criar códigos e análises voltado pra isso.
 Este primeiro foi criando uma lista, ou melhor uma tupla usando input com o nome, nº, idade, altura, posição.
